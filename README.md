@@ -15,4 +15,3 @@
 		<a href="https://www.linkedin.com/in/brunno-swater-miotto-076050172/">www.linkedin.com/in/brunno-swater-miotto</a>
 		<hr>
 	</br> :books: Cursando Bacharel em Ciências da Computação
- 
