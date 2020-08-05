@@ -11,5 +11,5 @@
 	<p>brunno.miotto@gmail.com</p>
 		<a href="https://www.linkedin.com/in/brunno-swater-miotto-076050172/">www.linkedin.com/in/brunno-swater-miotto</a>
   <h2>Formação</h2>
- <br/>Cursando Bacharel em Ciências da Computação
+	<p>Cursando Bacharel em Ciências da Computação</p>
  
