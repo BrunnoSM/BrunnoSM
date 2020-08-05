@@ -8,7 +8,7 @@
 	<p>Sou um apaixonado por tecnologia e venho buscando conhecimentos para ser um <strong>grande profissional na área</strong></p>
 	<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end usando HTML, CSS e Javascript
 	<br/> :blush: &nbsp; Posso te ajudar com HTML e CSS Básico
-	<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Games, Rock, Tocar Guitarra e Séries no Netflix
+	<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Games, Rock, Tocar Guitarra, Futebol e Séries no Netflix
 		<hr>
 	<br/> :email: &nbsp; Entre em contato comigo:
 	<p>brunno.miotto@gmail.com</p>
