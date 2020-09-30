@@ -1,4 +1,3 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 <h1 align="center">Brunno S. Miotto<h1/>
 	<hr>
 	<h1 align="center">Profissional de Tecnologia | Em busca de recolocação :computer:</h1>
