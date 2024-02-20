@@ -1,7 +1,7 @@
 <!--As tags <h1> e <h2> estavam aparecendo como se fossem links, então, preferi usar a tag <p>-->
 <p align="center"><strong>BrunnoSM</strong></p>
 <hr>
-<p align="center"><strong>Desenvolvedor Fullstack</strong> :computer:</p>
+<p align="center"><strong>Analista de T.I.</strong> :computer:</p>
 <hr>
 <p">Olá pessoal :wave:</p>
 <br/>
