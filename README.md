@@ -33,5 +33,5 @@
 <br/> 
 <hr>
 <br/> 
-<p>:books: &nbsp; Bacharel em Ciência da Computação (Cursando)</p>
+<p>:books: &nbsp; Bacharel em Ciência da Computação</p>
 <br/>
